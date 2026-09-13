@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@600&family=Roboto:wght@100;400;500;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700;800&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.gutter-bg {
+  background-image: url('https://converge-strapi-prod.s3.amazonaws.com/bg_image_39a42fea95.webp?updated_at=2022-10-20T16:16:45.244Z');
+}
+.foam-bg {
+  background-image: url('https://converge-strapi-prod.s3.amazonaws.com/foamhose_57edae1a21.webp');
+}
+.lejeune-bg {
+  background-image: url('https://converge-strapi-prod.s3.amazonaws.com/marinedark_631f0fd773.webp');
+}
+.cl-foam-bg {
+  background-image: url('https://converge-strapi-prod.s3.amazonaws.com/tyfoam_1eaf6fac44.webp');
+}
+.cl-lejeune-bg {
+  background-image: url('https://converge-strapi-prod.s3.amazonaws.com/tysoldier_8fe76ea783.webp');
+}
+
+.roundup-header-bg {
+  background-image: url('https://converge-strapi-prod.s3.amazonaws.com/sadguy_82beee6e2f.webp?updated_at=2023-09-11T20:10:06.700Z');
+}
+.hernia-header-bg {
+  background-image: url('https://converge-strapi-prod.s3.amazonaws.com/manpain2_f472e0a1c0.webp');
+}
+.dropdown-above {
+  bottom: calc(100% + 8px);
+}
+@media (max-width: 1023px) {
+  .dropdown-above {
+    bottom: auto;
+  }
+  .dropdown-above-mobile {
+    bottom: calc(100% + 8px);
+  }
+  .roundup-header-bg {
+    background-image: url('https://converge-strapi-prod.s3.amazonaws.com/sadguy1_704e714176.jpg?updated_at=2023-09-11T20:13:30.890Z');
+  }
+  .hernia-header-bg {
+    background-image: url('https://converge-strapi-prod.s3.amazonaws.com/manpain3_7806ad7778.jpg');
+  }
+}
