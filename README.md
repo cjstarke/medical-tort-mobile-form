@@ -18,7 +18,7 @@ This project is a snippet of a website built for a client to accept medical tort
 
 With these pages I built a fun mobile animation that makes the first unanswered question of the form appear as a top bar when the user scrolls pass the form:
 
-![Mobile Form Scroll Animation](docs/scroll-animation.gif)
+![Mobile Form Scroll Animation](https://github.com/user-attachments/assets/5703d72c-d36b-4a58-858b-cfb422bbe05a)
 
 The live version of these pages can be found here:
 
