@@ -20,8 +20,7 @@ With these pages I built a fun mobile animation that makes the first unanswered 
 
 ![Mobile Form Scroll Animation](https://github.com/user-attachments/assets/5703d72c-d36b-4a58-858b-cfb422bbe05a)
 
-The live version of these pages can be found here:
+The live version of these pages can be found [here](https://www.consumerlifeline.com/herniamesh1) and [here](https://www.consumerlifeline.com/herniamesh5)
 
-https://www.consumerlifeline.com/herniamesh1/
-https://www.consumerlifeline.com/herniamesh5
+
 
